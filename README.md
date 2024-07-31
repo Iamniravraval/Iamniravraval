@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iamniravraval
 - 👀 I’m interested in Web Developer 
-- 🌱 I’m currently learning Full stack Development 
+- 🌱 I’m currently learning Python Developing. 
 - 💞️ I’m looking to collaborate on Projects. 
 - 📫 How to reach me Email Or DM.
 
